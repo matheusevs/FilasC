@@ -1,5 +1,5 @@
 "# Filas utilizando a linguagem C"
 
-<img scr="gif.gif">
+<img src="gif.gif">
 
 ##
